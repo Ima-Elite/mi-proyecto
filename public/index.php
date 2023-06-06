@@ -3,6 +3,9 @@
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
+// SOLICITAR LA URL
+//die($_SERVER['REQUEST_URL']);
+
 define('LARAVEL_START', microtime(true));
 
 /*
